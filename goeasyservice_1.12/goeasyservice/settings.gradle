@@ -1,0 +1,3 @@
+rootProject.name='GoEasyServiceExample'
+include ':app'
+include ':goeasygnssdatalib'
